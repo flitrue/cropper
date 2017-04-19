@@ -2,7 +2,7 @@
 
 ### What is this ?
  
->图片上传剪辑。
+> 图片上传剪辑，依赖于cropBox.js。
 
 ### Quick Examples
 
